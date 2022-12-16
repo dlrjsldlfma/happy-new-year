@@ -11,4 +11,4 @@ Pages:
 
 Sources:
 - Calendar Image: www.annystudios.com
-- Events happening in 2023: www.wikipedia.org, holidaysmart.com, topendsports.com
+- Events happening in 2023: www.wikipedia.org, https://holidaysmart.com, www.topendsports.com
