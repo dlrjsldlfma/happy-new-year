@@ -2,7 +2,7 @@
 
 This is a website to celebrate the year 2023!
 
-Shortened Link: https://vo.la/BQ7IsT
+Shortened Link: https://vo.la/q7MaFW
 
 Pages:
 - Happy New Year message in many languages
