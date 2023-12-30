@@ -1,0 +1,21 @@
+.body1 {
+  font-family: Arial;
+}
+
+.footer1 {
+  font-family: Arial;
+  background-color: lightgray;
+}
+
+#header {
+  background-image: url("bg.jpeg");
+  padding: 90px 10px;
+  color: white;
+  text-align: center;
+  font-size: 90px;
+  font-weight: bold;
+  position: relative;
+  top: 0;
+  width: 100%;
+  transition: 0.1s;
+}
