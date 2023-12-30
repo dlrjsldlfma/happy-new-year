@@ -2,7 +2,7 @@
 
 This is a website to celebrate the year 2024!
 
-Link: 
+Link: dlrjsldlfma.github.io/happy-new-year/
 
 Pages:
 - Happy New Year message in many languages
