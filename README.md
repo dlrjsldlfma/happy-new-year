@@ -1,16 +1,15 @@
 # happy-new-year
 
-This is a website to celebrate the year 2023!
+This is a website to celebrate the year 2024!
 
-Shortened Link: https://vo.la/q7MaFW
+Link: 
 
 Pages:
 - Happy New Year message in many languages
-- 2023 Calendar
-- Facts about the number 2023
-- Major events planned to happen in 2023
-- World population, Global warming, Most visited sites, etc stats
+- 2024 Calendar
+- Facts about the number 2024
+- Major events planned to happen in 2024
 
 Sources:
-- Calendar Image: www.annystudios.com
-- Events happening in 2023: www.wikipedia.org, https://holidaysmart.com, www.topendsports.com
+- Calendar Image: www.grabcalendar.com
+- Events happening in 2023: namu.wiki
